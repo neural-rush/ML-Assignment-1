@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Final PDF is tracked; other stray PDFs are not
+*.pdf
+!ml_a1_CS26S510_solutions.pdf
